@@ -1,0 +1,1 @@
+grep "Overall alignment rate" *_hisat2_summary.txt | sort > total_alignment_report.txt

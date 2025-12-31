@@ -1,0 +1,1 @@
+pv GRCh38.primary_assembly.genome.fa ZIKV_FSS13025.fasta > hg38_ZIKV.fa
